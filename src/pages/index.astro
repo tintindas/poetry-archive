@@ -15,7 +15,7 @@ console.log(allPoems[0].frontmatter)
 		<h1>Poetry Archive</h1>
     {allPoems.map((p) => 
       <li>
-        <a href={p.url}>{p.url.slice(7)}</a>
+        <a href={p.url}>{p.frontmatter.title}</a>
       </li>
     )}
 	</body>
