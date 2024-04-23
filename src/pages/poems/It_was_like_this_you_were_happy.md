@@ -1,7 +1,7 @@
----  
-layout: '../../layouts/PoemLayout.astro'  
-title: It was like this: you were happy  
-poet: Jane Hirshfield  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: "It was like this: you were happy"
+poet: Jane Hirshfield
 ---
 
 It was like this:  
