@@ -1436,7 +1436,7 @@ const poems = [
         an accidental import from Spain, that the ancient
         game of jump-the-fire gave rise
         to politics. But I will confess
-        /that I began as an astronomer—a liking
+        that I began as an astronomer—a liking
         for bright flashes, vast distances, unreachable
         things, a hand stretched always toward
         the furthest limit—and that my longing
