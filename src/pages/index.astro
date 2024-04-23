@@ -1,5 +1,6 @@
 ---
 const allPoems = await Astro.glob('../pages/poems/*.md')
+console.log(allPoems[0].frontmatter)
 ---
 
 <html lang="en">
@@ -8,7 +9,7 @@ const allPoems = await Astro.glob('../pages/poems/*.md')
 		<meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>Poetry Archive</title>
 	</head>
 	<body>
 		<h1>Poetry Archive</h1>

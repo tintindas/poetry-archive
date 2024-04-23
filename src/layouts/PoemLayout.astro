@@ -1,0 +1,19 @@
+---
+const { frontmatter, rawcontent } = Astro.props
+---
+<html>
+  <head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+    <title>{frontmatter.title}</title>
+  </head>
+  <body>
+    <h1>{frontmatter.title}</h1>
+    <h3>by {frontmatter.poet}</h3>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>

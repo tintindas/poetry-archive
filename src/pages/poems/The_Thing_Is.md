@@ -1,7 +1,9 @@
-# The Thing Is  
-  
-### Ellen Bass  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: The Thing Is
+poet: Ellen Bass
+---
+
 To love life, to love it even  
 when you have no stomach for it  
 and everything you’ve held dear  
@@ -17,5 +19,4 @@ Then you hold life like a face
 between your palms, a plain face,  
 no charming smile, no violet eyes,  
 and you say, yes, I will take you  
-I will love you, again.  
-  
+I will love you, again.

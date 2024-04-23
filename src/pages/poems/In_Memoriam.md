@@ -1,7 +1,9 @@
-# In Memoriam  
-  
-### Leo Dangel  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: In Memoriam
+poet: Leo Dangel
+---
+
 In the early afternoon my mother  
 was doing the dishes. I climbed  
 onto the kitchen table, I suppose  
@@ -15,5 +17,4 @@ the whole time, enjoying the luxury—
 was too big for such a privilege  
 and just old enough to form  
 my only memory of her carrying me.  
-She's still moving me to a softer place.  
-  
+She's still moving me to a softer place.

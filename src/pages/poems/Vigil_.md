@@ -1,7 +1,9 @@
-# Vigil  
-  
-### Dennis O'Driscoll  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Vigil
+poet: Dennis O'Driscoll
+---
+
 Life is too short to sleep through.  
 Stay up late, wait until the sea of traffic ebbs,  
 until noise has drained from the world  
@@ -37,5 +39,4 @@ on look-out from his transatlantic seat.
 You are the only reliable witness to when  
 the light is separated from the darkness,  
 who has learned to see the dark in its true  
-colours, who has not squandered your life.  
-  
+colours, who has not squandered your life.

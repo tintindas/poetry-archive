@@ -1,7 +1,9 @@
-# The Truth  
-  
-### Esperanza Friel  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: The Truth
+poet: Esperanza Friel
+---
+
 These are the facts:  
 Cigarettes will kill you.  
 Yes does not always mean yes.  
@@ -19,5 +21,4 @@ in any situation.
 Mediation will center you  
 but only for a short time.  
 Love will hold you together  
-when you are falling apart.  
-  
+when you are falling apart.

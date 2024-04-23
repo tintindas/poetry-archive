@@ -1,7 +1,9 @@
-# Relax  
-  
-### Ellen Bass  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Relax
+poet: Ellen Bass
+---
+
 Bad things are going to happen.  
 Your tomatoes will grow a fungus  
 and your cat will get run over.  
@@ -38,5 +40,4 @@ slip on the bathroom tiles of a foreign hotel
 and crack your hip. You’ll be lonely.  
 Oh taste how sweet and tart  
 the red juice is, how the tiny seeds  
-crunch between your teeth.  
-  
+crunch between your teeth.

@@ -1,7 +1,9 @@
-# I Opened A Book  
-  
-### Julia Donaldson  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: I Opened A Book
+poet: Julia Donaldson
+---
+
 I opened a book and in I strode.  
 Now nobody can find me.  
 I've left my chair, my house, my road,  
@@ -17,5 +19,4 @@ To the happily ever after.
 I finished my book and out I came.  
 The cloak can no longer hide me.  
 My chair and my house are just the same,  
-But I have a book inside me.  
-  
+But I have a book inside me.

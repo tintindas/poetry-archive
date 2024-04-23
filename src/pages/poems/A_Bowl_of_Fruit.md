@@ -1,6 +1,8 @@
-# A Bowl of Fruit
-
-### Stephen Dunn
+---
+layout: "../../layouts/PoemLayout.astro"
+title: A Bowl of Fruit
+poet: Stephen Dunn
+---
 
 For me, the pleasure of poetry  
 is taking it apart.  

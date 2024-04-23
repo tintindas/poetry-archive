@@ -1,7 +1,9 @@
-# Good Bones  
-  
-### Maggie Smith  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Good Bones
+poet: Maggie Smith
+---
+
 Life is short, though I keep this from my children.  
 Life is short, and I’ve shortened mine  
 in a thousand delicious, ill-advised ways,  
@@ -18,5 +20,4 @@ though I keep this from my children. I am trying
 to sell them the world. Any decent realtor,  
 walking you through a real shithole, chirps on  
 about good bones: This place could be beautiful,  
-right? You could make this place beautiful.  
-  
+right? You could make this place beautiful.

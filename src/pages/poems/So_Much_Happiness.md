@@ -1,7 +1,9 @@
-# So Much Happiness  
-  
-### Naomi Shihab Nye  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: So Much Happiness
+poet: Naomi Shihab Nye
+---
+
 It is difficult to know what to do with so much happiness.  
 With sadness there is something to rub against,  
 a wound to tend with lotion and cloth.  
@@ -27,5 +29,4 @@ you shrug, you raise your hands, and it flows out of you
 into everything you touch. You are not responsible.  
 You take no credit, as the night sky takes no credit  
 for the moon, but continues to hold it, and share it,  
-and in that way, be known.  
-  
+and in that way, be known.

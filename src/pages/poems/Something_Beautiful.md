@@ -1,7 +1,9 @@
-# Something Beautiful  
-  
-### Emily Montgomery  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Something Beautiful
+poet: Emily Montgomery
+---
+
 I wanted to save something beautiful for you.  
 The last three jewels of glistening pomegranate  
 balanced in the palm of my hand before I ate them.  
@@ -26,5 +28,4 @@ But I couldn’t. It didn’t last. It never does.
 That brief moment of grace when the ordinary shines so exquisitely.  
 At the end of the day you will return to us, as you always do,  
 and we will both be tired, empty, distracted, spent.  
-Everything more chaotic, more fragile, than when you left.  
-  
+Everything more chaotic, more fragile, than when you left.

@@ -1,7 +1,9 @@
-# The Couple  
-  
-### Louis Jenkins  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: The Couple
+poet: Louis Jenkins
+---
+
 They no longer sleep quite as well as they did  
 when they were younger. He lies awake thinking  
 of things that happened years ago, turning  
@@ -14,5 +16,4 @@ are sentries at some outpost, an abandoned fort
 somewhere in the middle of the Great Plains  
 where only the wind is a regular visitor. Each  
 stands guard in the wilderness of an imagined  
-life in which the other sleeps untroubled.  
-  
+life in which the other sleeps untroubled.

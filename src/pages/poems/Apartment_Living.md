@@ -1,7 +1,9 @@
-# Apartment Living  
-  
-### Meghan O’Rourke  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Apartment Living
+poet: Meghan O’Rourke
+---
+
 So those despotic loves have become known to you,  
 rubbing cold hands up your thighs, leaving oily trails,  
 whispering, Just how you like it, right?  
@@ -20,5 +22,4 @@ You laid your black dress on the bed.
 You stepped in your heels over sidewalk cracks.  
 You licked mint and sugar from the cocktail mixer,  
 singing nonsense songs,  
-and the strangers, they sang along.  
-  
+and the strangers, they sang along.

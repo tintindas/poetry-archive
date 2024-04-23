@@ -1,7 +1,9 @@
-# Song of Myself  
-  
-### Ronald Wallace  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Song of Myself
+poet: Ronald Wallace
+---
+
 I think it's enough just to sit and meditate, heedless  
 of the needs of others close to us and of  
 their perpetual demands that seem to sap the  
@@ -15,5 +17,4 @@ alone with his peas and beans and ledgers, and we
 can do the same. So much for the ties that bind.  
 "We must find our occasions in ourselves,"  
 said self-reliant Thoreau. And so I'm going to sing to  
-myself. And the birds. And you. And one or two others.  
-  
+myself. And the birds. And you. And one or two others.

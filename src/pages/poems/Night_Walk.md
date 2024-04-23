@@ -1,7 +1,9 @@
-# Night Walk  
-  
-### Franz Wright  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Night Walk
+poet: Franz Wright
+---
+
 The all-night convenience store's empty  
 and no one is behind the counter.  
 You open and shut the glass door a few times  
@@ -26,5 +28,4 @@ And the night smells like snow.
 Walking home, for a moment  
 you almost believe you could start again.  
 And an intense love rushes to your heart,  
-and hope. It's unendurable, unendurable.  
-  
+and hope. It's unendurable, unendurable.

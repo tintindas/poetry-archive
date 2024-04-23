@@ -1,7 +1,9 @@
-# Dilemma  
-  
-### Leigh Anne Hornfeldt  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Dilemma
+poet: Leigh Anne Hornfeldt
+---
+
 If I tell my son his mouse is dying  
 I may as well tell him the rest:  
 her shallow breath means her lungs are deflating,  
@@ -11,8 +13,8 @@ What can hide him
 from that truth? Her cage  
 is littered with her loss of strength:  
 untouched water bottle, food pellets  
-staling in the pink plastic bowl.  
-  
+staling in the pink plastic bowl.
+
 If I tell him she’s dying I may as well tell him  
 the worst of it, that his father and I  
 knew exactly what we were doing  
@@ -26,5 +28,4 @@ Better now than let sorrow catch him later.
 And if I tell him that I may as well tell him  
 I was wrong. What was I thinking. As if  
 arming him with this one little death  
-were protection enough.  
-  
+were protection enough.

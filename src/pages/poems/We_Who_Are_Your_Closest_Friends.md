@@ -1,7 +1,9 @@
-# We Who Are Your Closest Friends  
-  
-### Phillip Lopate  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: We Who Are Your Closest Friends
+poet: Phillip Lopate
+---
+
 we who are  
 your closest friends  
 feel the time  
@@ -17,16 +19,16 @@ discontent and
 torture  
 by neither loving you  
 as much as you want  
-nor cutting you adrift  
-  
+nor cutting you adrift
+
 your analyst is  
 in on it  
 plus your boyfriend  
 and your ex-husband  
 and we have pledged  
 to disappoint you  
-as long as you need us  
-  
+as long as you need us
+
 in announcing our  
 association  
 we realize we have  
@@ -46,7 +48,6 @@ unreasonable
 demands for affection  
 if not as a consequence  
 of your  
-disastrous personality  
-  
-then for the good of the collective  
-  
+disastrous personality
+
+then for the good of the collective

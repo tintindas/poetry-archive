@@ -1,7 +1,9 @@
-# Art Is a Facebook Status About Your Winter Break  
-  
-### B.E. Fitzgerald  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Art Is a Facebook Status About Your Winter Break
+poet: B.E. Fitzgerald
+---
+
 I swear to every heaven ever imagined,  
 if I hear one more dead-eyed hipster  
 tell me that art is dead, I will personally summon Shakespeare  
@@ -43,5 +45,4 @@ in public parks on my cellphone
 and you will continue to scoff and that is okay.  
 But I hope, I pray, that one day you will realize how blessed  
 you are to be alive in a moment where you can google search  
-how to say I love you in 164 different languages.  
-  
+how to say I love you in 164 different languages.

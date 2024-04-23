@@ -1,7 +1,9 @@
-# Adventures in the Dream Trade  
-  
-### Neil Gaiman  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Adventures in the Dream Trade
+poet: Neil Gaiman
+---
+
 I don’t think that I’ve been in love as such  
 Although I liked a few folk pretty well  
 Love must be vaster than my smiles or touch  
@@ -15,5 +17,4 @@ For me love’s like the wind, unseen, unknown
 I see the trees are bending where it’s been  
 I know that it leaves wreckage where it’s blown  
 I really don’t know what "I love you" means  
-I think it means "don’t leave me here alone”  
-  
+I think it means "don’t leave me here alone”

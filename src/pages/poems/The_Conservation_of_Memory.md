@@ -1,7 +1,9 @@
-# The Conservation of Memory  
-  
-### Bethany Reid  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: The Conservation of Memory
+poet: Bethany Reid
+---
+
 The laws of physics being what they are,  
 nothing is ever really lost. The keys, the map,  
 the black cat you let out one morning to the backyard,  
@@ -27,5 +29,4 @@ into clouds and on the coldest days falling
 as snow where the new filly drags her muzzle,  
 then lifts her head, her eyes, the eyes of your great–aunt  
 or your second–grade teacher. A knowing  
-you know in the viscera. Echo. Eclipse.  
-  
+you know in the viscera. Echo. Eclipse.

@@ -1,7 +1,9 @@
-# No Need  
-  
-### Alain Bosquet  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: No Need
+poet: Alain Bosquet
+---
+
 The elephant's trunk  
 is for picking up pistachios:  
 no need to bend over.  
@@ -20,5 +22,4 @@ no need for a house.
 The poet's poem,  
 is for saying all of that  
 and a thousand thousand thousand other things:  
-no need to understand.  
-  
+no need to understand.

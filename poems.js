@@ -1475,7 +1475,7 @@ const poems = [
     `,
   },
   {
-    title: `The Day You Looked Upon Me as a Stranger `,
+    title: `The Day You Looked Upon Me as a Stranger`,
     poet: `Jeffrey Harrison`,
     text: `I had left you at the gate to buy a newspaper
     and on my way back stopped at a bank of monitors
@@ -1860,10 +1860,14 @@ Get out as early as you can,
 ];
 
 poems.forEach((p) => {
-  const title = `# ${p["title"]}`;
-  const poet = `### ${p["poet"]}`;
-  const text = `${p["text"]}`;
-  const content = title + "\n\n" + poet + "\n\n" + text;
+  const { title, poet, text } = p;
+  const content = `---
+layout: '../../layouts/PoemLayout.astro'
+title: ${title}
+poet: ${poet}
+---
+${text}
+`;
   fs.writeFile(
     `src/pages/poems/${p["title"].replaceAll(" ", "_")}.md`,
     content,

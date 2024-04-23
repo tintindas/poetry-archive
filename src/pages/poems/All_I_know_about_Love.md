@@ -1,6 +1,8 @@
-# All I know about Love
-
-### Neil Gaiman
+---
+layout: "../../layouts/PoemLayout.astro"
+title: All I know about Love
+poet: Neil Gaiman
+---
 
 This is everything I have to tell you about love: nothing.  
 This is everything I’ve learned about marriage: nothing.  

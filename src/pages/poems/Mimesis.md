@@ -1,20 +1,21 @@
-# Mimesis  
-  
-### Fady Joudah  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Mimesis
+poet: Fady Joudah
+---
+
 My daughter  
 wouldn’t hurt a spider  
 That had nested  
 Between her bicycle handles  
 For two weeks  
 She waited  
-Until it left of its own accord  
-  
+Until it left of its own accord
+
 If you tear down the web I said  
 It will simply know  
 This isn’t a place to call home  
-And you’d get to go biking  
-  
+And you’d get to go biking
+
 She said that’s how others  
-Become refugees isn’t it?  
-  
+Become refugees isn’t it?

@@ -1,7 +1,9 @@
-# Days I Enjoy  
-  
-### Victoria Sackville-West  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Days I Enjoy
+poet: Victoria Sackville-West
+---
+
 Days I enjoy are days when nothing happens,  
 When I have no engagements written on my block,  
 When no one comes to disturb my inward peace,  
@@ -16,5 +18,4 @@ And what have I to give my friends in the last resort?
 An awkwardness, a shyness, and a scrap,  
 No thing that's truly me, a bootless waste,  
 A waste of myself and them, for my life is mine  
-And theirs presumably theirs, and cannot touch.  
-  
+And theirs presumably theirs, and cannot touch.

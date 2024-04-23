@@ -1,17 +1,19 @@
-# Roll the Dice  
-  
-### Charles Bukowski  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Roll the Dice
+poet: Charles Bukowski
+---
+
 if you’re going to try, go all the  
 way.  
-otherwise, don’t even start.  
-  
+otherwise, don’t even start.
+
 if you’re going to try, go all the  
 way.  
 this could mean losing girlfriends,  
 wives, relatives, jobs and  
-maybe your mind.  
-  
+maybe your mind.
+
 go all the way.  
 it could mean not eating for 3 or 4 days.  
 it could mean freezing on a  
@@ -29,24 +31,23 @@ and you’ll do it
 despite rejection and the worst odds  
 and it will be better than  
 anything else  
-you can imagine.  
-  
+you can imagine.
+
 if you’re going to try,  
 go all the way.  
 there is no other feeling like  
 that.  
 you will be alone with the gods  
 and the nights will flame with  
-fire.  
-  
+fire.
+
 do it, do it, do it.  
-do it.  
-  
+do it.
+
 all the way  
-all the way.  
-  
+all the way.
+
 you will ride life straight to  
 perfect laughter, its  
 the only good fight  
-there is.  
-  
+there is.

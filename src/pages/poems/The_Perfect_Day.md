@@ -1,7 +1,9 @@
-# The Perfect Day  
-  
-### Alice B. Parsons  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: The Perfect Day
+poet: Alice B. Parsons
+---
+
 You wake with  
 no aches  
 in the arms  
@@ -36,5 +38,4 @@ in fresh sheets
 your sweetheart doesn't snore  
 and in your dreams  
 an old piece of sadness  
-lifts away  
-  
+lifts away

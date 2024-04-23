@@ -1,7 +1,9 @@
-# Well Then If I Have To  
-  
-### J.R.Solonche  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Well Then If I Have To
+poet: J.R.Solonche
+---
+
 sit here for all this time  
 and do nothing except look out  
 the window at the rain,  
@@ -11,5 +13,4 @@ I will not gain wisdom.
 But when I’m done,  
 I will know more about sitting,  
 and I will know more about looking,  
-and I will know more about rain.  
-  
+and I will know more about rain.

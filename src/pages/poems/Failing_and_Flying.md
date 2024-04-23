@@ -1,7 +1,9 @@
-# Failing and Flying  
-  
-### Jack Gilbert  
-  
+---
+layout: "../../layouts/PoemLayout.astro"
+title: Failing and Flying
+poet: Jack Gilbert
+---
+
 Everyone forgets that Icarus also flew.  
 It's the same when love comes to an end,  
 or the marriage fails and people say  
@@ -26,5 +28,4 @@ the marriage failed? Like the people who
 came back from Provence (when it was Provence)  
 and said it was pretty but the food was greasy.  
 I believe Icarus was not failing as he fell,  
-but just coming to the end of his triumph.  
-  
+but just coming to the end of his triumph.
