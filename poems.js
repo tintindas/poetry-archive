@@ -1724,7 +1724,7 @@ Get out as early as you can,
     `,
   },
   {
-    title: `It was like this: you were happy`,
+    title: `It was like this you were happy`,
     poet: `Jane Hirshfield`,
     text: `It was like this:
     you were happy, then you were sad,
