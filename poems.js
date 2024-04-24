@@ -27,7 +27,7 @@ const poems = [
         `,
   },
   {
-    title: `Vigil `,
+    title: `Vigil`,
     poet: `Dennis O'Driscoll`,
     text: `Life is too short to sleep through.
         Stay up late, wait until the sea of traffic ebbs,
@@ -1869,7 +1869,7 @@ poet: ${poet}
 ${text}
 `;
   fs.writeFile(
-    `src/pages/poems/${p["title"].replaceAll(" ", "_")}.md`,
+    `src/pages/poems/${p["title"].replaceAll(/[^\w\\s]/g, "_")}.md`,
     content,
     (err) => {
       if (err) {
