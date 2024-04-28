@@ -97,4 +97,14 @@ const allPoems = await Astro.glob('../pages/poems/*.md')
     left: 0;
     z-index: 1;
   }
+
+  @media screen and (max-width: 600px) {
+    main {
+      grid-template-columns: 1fr;
+    }
+
+    .card {
+      width: 80vw;
+    }
+  }
 </style>
